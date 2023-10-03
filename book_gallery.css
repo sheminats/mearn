@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Pacifico&family=Skranji&display=swap');
+.col{
+    background-color:black;
+    color: white;
+    width: 16%;
+    float: left;
+    border: white 5px solid;
+    margin-top:29px;
+    height: 579px;
+}
+.col:hover{
+    background-color: white;
+    color: black;
+}
+h1{
+    color:rgb(4, 193, 231);
+  text-align: center;
+  background-color: black;
+  font-family: 'Skranji', cursive;
+
+}
+p{
+    padding: 10px;
+}
+.g1{
+    text-align: center;
+    color: crimson;
+}
+
+h2,h3{
+    text-align: center;
+}  
+h2{
+    color:darkred;
+}
+h3{
+    color: darkgoldenrod;
+}
